@@ -150,7 +150,7 @@
   | -------- | ---- | ------- |
   | **802.11** (WLAN/**Wi-Fi**) | 1997 | • 2.4 GHz • DSS, FHSS • Up to 2 Mbit/s • 20 - 100 meters |
   | **802.11a** (Wi-Fi 2) | 1999 | • 5 - 3.7 GHz • OFDM • Up to 54 Mbit/s • 35 - 100 meters |
-  | **802.11b** | 1999 | • 5.4 GHz • DSSS • Up to 11 Mbit/s • 35 - 140 meters |
+  | **802.11b** | 1999 | • 2.4 GHz • DSSS • Up to 11 Mbit/s • 35 - 140 meters |
   | **802.11c** | 2001 | Bridge operation procedures; included in the IEEE 802.1D standard |
   | **802.11d** | 2001 | International (country-to-country) roaming extensions |
   | **802.11e** | 2005 | Enhancements: QoS, including packet bursting |
